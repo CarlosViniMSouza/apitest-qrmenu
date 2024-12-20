@@ -1,0 +1,38 @@
+{
+    "id": "c0f34023-1af4-41ae-b2ea-89112a47d8dd",
+    "name": "Hamburgueria ZL",
+    "email": "hamburgueriazl@email.com",
+    "password": "$2a$12$zs2kHiGdyO9OaumVbahlMuo.1ak5/8BGEuGUYF/CEa7OpMs5Gf8yK",
+    "products": [
+        {
+            "id": "2fa864bb-83c7-49d4-82da-7cb5769332c4",
+            "idRestaurant": "c0f34023-1af4-41ae-b2ea-89112a47d8dd",
+            "name": "Combo X-Salada + Coca-Cola + Fritas + Kikão",
+            "description": "Um combo enorme para 6 pessoas",
+            "category": "Salgado",
+            "urlPhoto": "https://files.menudino.com/cardapios/26316/812.jpg",
+            "availability": false,
+            "price": 75.99
+        },
+        {
+            "id": "0c5372c4-ce9c-454a-838a-dfcdeda12f41",
+            "idRestaurant": "c0f34023-1af4-41ae-b2ea-89112a47d8dd",
+            "name": "Sopa",
+            "description": "Uma sopa bem quente",
+            "category": "Salgado",
+            "urlPhoto": "https://todeschinialimentos.com.br/images/receitas/101/todeschini-imagem-receitas-sopa-cremosa-de-liquidificador-com-macarrao-1-xl.webp",
+            "availability": true,
+            "price": 15.99
+        },
+        {
+            "id": "e0d8cfd5-cf9c-474d-a7a4-8ea86c15485a",
+            "idRestaurant": "c0f34023-1af4-41ae-b2ea-89112a47d8dd",
+            "name": "Coxinha de mandioca",
+            "description": "coxinha de mandioca",
+            "category": "Salgado",
+            "urlPhoto": "https://salgadosparavender.com.br/wp-content/uploads/2024/05/coxinha-para-vender.jpg",
+            "availability": true,
+            "price": 9.99
+        }
+    ]
+}
